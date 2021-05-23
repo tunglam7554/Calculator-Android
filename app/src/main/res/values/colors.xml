@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accentButton">#4AEBC5</color>
+    <color name="accentButtonPress">#61c9b1</color>
+    <color name="accentButtonFocus">#66ffdb</color>
+    <color name="accentText">#ffffff</color>
+    <color name="actionButton">#FEF4FE</color>
+    <color name="actionButtonPress">#e6cae6</color>
+    <color name="actionButtonFocus">#f5ebf5</color>
+    <color name="actionText">#E474E1</color>
+    <color name="numberButton">#F8FAFB</color>
+    <color name="numberButtonPress">#dce4e8</color>
+    <color name="numberButtonFocus">#def2fc</color>
+    <color name="secondaryText">#AFAFAF</color>
+</resources>
